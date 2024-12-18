@@ -1,1 +1,2 @@
 # learning-python-and-git
+I have done work with python, mainly automation of ticket workflows and integrating it with relevant APIs, but I always have to spend time on basic documentation. I am hoping that learning the fundamentals will allow me to do more, more efficently.
