@@ -1,1 +1,1 @@
-# learning-python-git
+# learning-python-and-git
